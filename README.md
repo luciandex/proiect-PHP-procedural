@@ -1,5 +1,8 @@
 1. Numele complet: Lucian;
-2. Tema proiectului: Numismatic World & Trade;
+2. Tema proiectului: Numismatic World & Trade; 
+    
+    LINK CATRE proiect accesibil online: http://numismatic.c1.biz/
+    
 3. Link-ul către template-ul folosit pentru proiect: https://www.chitrakootweb.com/template/crizal/
 Am utilizat Demo-09, Demo-11 si combinatii ale acestora si/sau cu altele din acelasi template. 
 4. Scurtă descriere a proiectului: Site web care prezintă deatlii despre elemente numismatice si ofera si o platforma de tranzactionare a acestora;
