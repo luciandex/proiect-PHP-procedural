@@ -5,7 +5,7 @@
     
 3. Link-ul către template-ul folosit pentru proiect: https://www.chitrakootweb.com/template/crizal/
 Am utilizat Demo-09, Demo-11 si combinatii ale acestora si/sau cu altele din acelasi template. 
-4. Scurtă descriere a proiectului: Site web care prezintă deatlii despre elemente numismatice si ofera si o platforma de tranzactionare a acestora;
+4. Scurtă descriere a proiectului: Site web care prezintă deatlii despre elemente numismatice;
 5. Cursul urmat: Web Developer - Academia Credis;
 6. Surse de inspirație:
 
