@@ -1,13 +1,13 @@
-1. Numele complet: Lucian;
-2. Tema proiectului: Numismatic World & Trade; 
-    
-    LINK CATRE proiect accesibil online: http://numismatic.c1.biz/
-    
-3. Link-ul către template-ul folosit pentru proiect: https://www.chitrakootweb.com/template/crizal/
-Am utilizat Demo-09, Demo-11 si combinatii ale acestora si/sau cu altele din acelasi template. 
-4. Scurtă descriere a proiectului: Site web care prezintă deatlii despre elemente numismatice;
-5. Cursul urmat: Web Developer - Academia Credis;
-6. Surse de inspirație:
+PROJECT PAGE: https://luciandex.github.io/proiect-PHP-procedural
+
+Project theme: Numismatic World & Trade  - Website featuring data on numismatic elements;
+
+Template: https://www.chitrakootweb.com/template/crizal/ (Demo-09, Demo-11 and other code fragments). 
+
+Web Developer - Academia Credis;
+
+
+Sources:
 
 Learning PHP, MySQL, JavaScript, CSS, HTML5, jQuery - Robin Nixon
 
@@ -38,4 +38,4 @@ https://icoconvert.com/
 https://imagecompressor.com
 
 
-7. Biblioteci externe folosite: Bootstrap, jQuery.
+Bootstrap, jQuery.
